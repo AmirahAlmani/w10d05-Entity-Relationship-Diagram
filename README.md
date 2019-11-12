@@ -109,4 +109,7 @@ One or more ERD diagrams, using crow's foot notation, of whatever app you choose
 
 ## Additional Resources
 
+- [ER diagram tool](https://www.lucidchart.com/pages/examples/er-diagram-tool)
+
+
 - [crows foot notation cheat sheet](http://www.vivekmchawla.com/content/images/2013/Dec/ERD_Relationship_Symbols_Quick_Reference-1.png)
