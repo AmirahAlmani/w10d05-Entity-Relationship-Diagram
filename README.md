@@ -1,3 +1,5 @@
+[![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)![Misk Logo](https://i.ibb.co/KmXhJbm/Webp-net-resizeimage-1.png)
+
 # Domain Modeling & ERDs
 
 ## Learning Objectives
@@ -11,7 +13,7 @@
 
 User stories clarify the features we need for a good user experience. We use
 them to prioritize order and scope. Today, we will identify the information
-required to support those user stories.  We refer to this as the Domain, or
+required to support those user stories. We refer to this as the Domain, or
 Domain Model. The Domain Model specifies the data and the relationships between
 this data. We use it to decide what needs to be persisted.
 
@@ -21,9 +23,9 @@ Domain Modeling allows us to outline the data values that we need to persist.
 
 - We only consider the attributes of our data, not the behavior of our application.
 - A domain model in problem solving and software engineering is a conceptual
-model of all the items/topics related to a specific problem.
+  model of all the items/topics related to a specific problem.
 - It describes the various entities, their attributes, roles and relationships,
-plus the constraints that govern the problem domain.
+  plus the constraints that govern the problem domain.
 
 The big takeaway here is that domain modeling **does not describe solutions to the problem**. Instead, it defines how our data is structured.
 
@@ -33,7 +35,7 @@ An ERD -- or "Entity Relationship Diagram" -- is a tool we use to visualize and 
 major entities that will exist in out programs.
 
 - Ultimately lends itself to planning out and creating our database table
-structure.
+  structure.
 - Again, we keep our data separate from our behavior.
 
 #### Example: An Orchard
@@ -74,14 +76,9 @@ ERDs get more complex the larger your application becomes. Nevertheless, they ar
 
 Come up with an example ERD for an application that manages a library.
 
-
-
 ## You Do: Database Design Challenges – Model Your Favorite Apps
 
-
 As an extension of your practice earlier, it's time to challenge yourself to analyze an existing application and try to understand the models and relationships behind it. Not every web application uses a SQL database, but it's great to practice data modeling, regardless.
-
-
 
 ### Requirements
 
@@ -97,8 +94,7 @@ As an extension of your practice earlier, it's time to challenge yourself to ana
 
 ### Deliverable
 
-One or more ERD diagrams, using crow's foot notation, of whatever app you choose.  For example:
-
+One or more ERD diagrams, using crow's foot notation, of whatever app you choose. For example:
 
 <p align="center">
   <img src ="https://www.edrawsoft.com/images/examples/entity-relationship-diagram.png">
@@ -106,10 +102,8 @@ One or more ERD diagrams, using crow's foot notation, of whatever app you choose
 
 > Note: this example has "Items" as placeholders for the attributes.
 
-
 ## Additional Resources
 
 - [ER diagram tool](https://www.lucidchart.com/pages/examples/er-diagram-tool)
 
-
-- [crows foot notation cheat sheet](http://www.vivekmchawla.com/content/images/2013/Dec/ERD_Relationship_Symbols_Quick_Reference-1.png)
+* [crows foot notation cheat sheet](http://www.vivekmchawla.com/content/images/2013/Dec/ERD_Relationship_Symbols_Quick_Reference-1.png)
